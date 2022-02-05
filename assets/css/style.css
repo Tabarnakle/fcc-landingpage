@@ -1,3 +1,9 @@
 #features i {
     color: #da5c14;
 }
+.nav-item {
+    width: 120px;
+}
+.list-unstyled li {
+    padding: 0.25em 0;
+}
